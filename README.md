@@ -1,65 +1,28 @@
-<h1 align="center">Hello, I'm Eduardo 😃</h1>
+<div align="center">  
+  <h1>Hello, I'm Eduardo 😃👋</h1>
+</div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-h-o" target="_blank">
-  
-  <a href="https://www.linkedin.com/in/eduardo-h-o/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="center">  
+  <a href="https://www.linkedin.com/in/eduardo-h-o/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-<table border="0">
-  <tbody>
-    <tr>
-      <td>
-        <img src=".github/bash.gif" width="70px">
-      </td>
-      <td>
-        <h4>I'm currently studying React, Next.js and Node.js.</h4>
-      </td>
-    </tr>
-  </tbody>
-</table>
+## About me
+I simply love technology and have the best time studing it, besides that, I also like playing video games, listening to music and working out. I'm very open to create new connections and share knowledge, if you want, you can contact me through my socials.
 
-<table border="0">
-  <tbody>
-    <tr>
-      <td>
-        <img src=".github/mouse.gif" width="70px">
-      </td>
-      <td>
-        <h4>I love technology and my main hobby is to study about it.</h4>
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Projects
+I'm always creating new projects for hobby and to learn new things, you can browse through my repositories to see some of them, and if you like it, don't forget to give it a star 😉.
 
-<table border="0">
-  <tbody>
-    <tr>
-      <td>
-        <img src=".github/glasses.gif" width="70px">
-      </td>
-      <td>
-        <h4>I'm interresed in connecting to people and share knowledge.</h4>
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Some of my skills
+<img src=".github/skills.png" />
 
-<table border="0">
-  <tbody>
-    <tr>
-      <td>
-        <img src=".github/git.gif" width="70px">
-      </td>
-      <td>
-        <h4>You can browse through my repositories to see some of my projects.</h4>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<br>
+<hr>
+<br>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-H&show_icons=true&theme=tokyonight&text_color=fff" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-H&show_icons=true&theme=tokyonight&text_color=fff" height="150px" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-H&layout=compact&theme=tokyonight&text_color=fff" height="150px" />
 </div>
 
