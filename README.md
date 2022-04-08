@@ -17,12 +17,10 @@ I'm always creating new projects for hobby and to learn new things, you can brow
 ## Some of my skills
 <img src=".github/skills.png" />
 
-<br>
 <hr>
-<br>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-H&show_icons=true&theme=tokyonight&text_color=fff" height="150px" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-H&layout=compact&theme=tokyonight&text_color=fff" height="150px" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-H&show_icons=true&theme=tokyonight&text_color=fff" height="200px" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-H&layout=compact&theme=tokyonight&text_color=fff" height="200px" />
 </div>
 
