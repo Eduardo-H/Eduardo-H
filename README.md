@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<table>
+<table style="border: none;">
   <tbody>
     <tr>
       <td>
@@ -20,7 +20,7 @@
   </tbody>
 </table>
 
-<table>
+<table style="border: none;">
   <tbody>
     <tr>
       <td>
@@ -33,7 +33,7 @@
   </tbody>
 </table>
 
-<table>
+<table style="border: none;">
   <tbody>
     <tr>
       <td>
@@ -46,7 +46,7 @@
   </tbody>
 </table>
 
-<table>
+<table style="border: none;">
   <tbody>
     <tr>
       <td>
