@@ -8,13 +8,17 @@
   </a>
 </div>
 
-## About me
+<h2>About me</h2>
+<h4>
 I simply love technology and have the best time studing it, besides that, I also like playing video games, listening to music and working out. I'm very open to create new connections and share knowledge, if you want, you can contact me through my socials.
+</h4>
 
-## Projects
+<h2>Projects</h2>
+<h4>
 I'm always creating new projects for hobby and to learn new things, you can browse through my repositories to see some of them, and if you like it, don't forget to give it a star 😉.
+</h4>
 
-## Some of my skills
+<h2>Some of my skills</h2>
 <img src=".github/skills.png" />
 
 <hr>
