@@ -47,9 +47,3 @@ I'm always creating new projects for hobby and to learn new things, you can brow
     <img src=".github/styled_components.png" height="60px"/>
   </a>
 </div>
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-H&show_icons=true&theme=tokyonight&text_color=fff" height="160px" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-H&layout=compact&theme=tokyonight&text_color=fff" height="160px" />
-</div>
-
